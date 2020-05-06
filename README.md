@@ -1,1 +1,0 @@
-# dockerJenkins_industryProject
